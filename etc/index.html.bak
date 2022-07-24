@@ -39,7 +39,7 @@
 		<div class="icon">
 			<a class="link" href="#">
 			
-			<img class="svg1" src="etc/settings.svg" alt="" />
+			<img class="svg1" src="settings.svg" alt="" />
 			</a>
 		</div>
 		<div class="wrapper">
@@ -283,25 +283,10 @@
 		<div id="resume" class="shane_tm_section">
 			<div class="shane_tm_resume">
 				<div class="shane_tm_main_title">
-					<h3><span class="coloring">Academics</span></h3>
+					<h3>Academics / <span class="coloring">Work Experience</span></h3>
 				</div>
 				<div class="experience_list">
 					<ul>
-					
-						<li>
-							<div class="list_inner">
-								<div class="first">
-									<h3>2022 - Current</h3>
-								</div>
-								<div class="second">
-									<h3>Student,<br />New Jersey Institute of Technology, Newark, USA</h3>
-								</div>
-								<div class="third">
-                                    <p>Pursuing a M.S. Degree in Computer Science.
-                                </div>
-							</div>
-						</li>
-						
 						<li>
 							<div class="list_inner">
 								<div class="first">
@@ -315,38 +300,13 @@
                                 </div>
 							</div>
 						</li>
-                        
-							
-					</ul>
-				</div>
-				<div class="shane_tm_main_title">
-					<h3><span class="coloring">Work Experience</span></h3>
-				</div>
-				<div class="experience_list">
-					<ul>
-						<li>
-							<div class="list_inner">
-								<div class="first">
-									<h3>December 2021 - April 2022  </h3>
-								</div>
-								<div class="second">
-									<h3>Software Trainee,<br />  iView Labs Pvt. Ltd. </h3>
-								</div>
-								<div class="third">
-                                    <p>
-                                        Worked on Web Application that deals with the advertisements & its management where in a user can post listings for ads and related functionalities for other users to browse.
-		
-                                    </p>
-                                </div>
-							</div>
-						</li>
 						<li>
 							<div class="list_inner">
 								<div class="first">
 									<h3>July- August 2020  </h3>
 								</div>
 								<div class="second">
-									<h3>Intern,<br /> TUV-Nord India Pvt. Ltd.  </h3>
+									<h3>Intern,<br /> TUV-Nord India Pvt Ltd  </h3>
 								</div>
 								<div class="third">
                                     <p>
@@ -360,13 +320,30 @@
 						<li>
 							<div class="list_inner">
 								<div class="first">
-									<h3>June 2019 - September 2021</h3>
+									<h3>June 2019 - Current</h3>
 								</div>
 								<div class="second">
 									<h3>The Finance Head<br />Shutterbugs, DDU</h3>
 								</div>
 								<div class="third">
                                     <p>Apart from being a good event planner I am the Finance Head of a photography and event management club of our university - Shutterbugs where I have been a part in conducting various events, activities, trips and college fests programmes.
+                                </div>
+							</div>
+						</li>
+                        
+							
+						<li>
+							<div class="list_inner">
+								<div class="first">
+									<h3>2004 - 2018</h3>
+								</div>
+								<div class="second">
+									<h3>Student,<br />Delhi Public School</h3>
+								</div>
+								<div class="third">
+                                    <p>
+                                        I spent my tender to teen age being an enthusiast in academic to extracurricular activities like olympiads, sports, etc.
+                                    </p>
                                 </div>
 							</div>
 						</li>
